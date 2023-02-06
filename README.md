@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Swarm Particle Optimization and Generative Adversarial Networks(GANs)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kushagraSh02?tab=repositories](https://github.com/kushagraSh02?tab=repositories)
+- 👨‍💻 My Portfolio Site [https://kushagrash02.github.io/](https://kushagrash02.github.io/)
 
 - 💬 Ask me about **Computer Vision, Machine Learning or Algorithms**
 
