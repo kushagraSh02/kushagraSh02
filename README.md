@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **NLP, Optimization**
 
-- 🤝 I’m looking for help with **Swarm Particle Optimization and Generative Adversarial Networks(GANs)**
+- 🤝 I’m looking for help with **Generative Adversarial Networks(GANs) and Siamese Networks**
 
 - 👨‍💻 My Portfolio Site [https://kushagrash02.github.io/](https://kushagrash02.github.io/)
 
